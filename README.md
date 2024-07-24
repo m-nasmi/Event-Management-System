@@ -31,13 +31,10 @@ or, if you are using Yarn:
 
 The application will be available at 'http://localhost:3000'.
 
-Project Structure
-The project follows a standard React structure with TailwindCSS for styling:
-
-Styling with TailwindCSS
+# Styling with TailwindCSS
 TailwindCSS is used for styling the application. Ensure that your development environment is set up to process TailwindCSS correctly by following the setup in tailwind.config.js.
 
-#Contact
+# Contact
 If you have any questions or need further information, feel free to reach out:
 
 Muhammed Nasmi Email: mdnsmi2442@gmail.com Phone: +94765232442
