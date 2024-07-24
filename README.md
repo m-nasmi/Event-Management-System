@@ -37,4 +37,6 @@ TailwindCSS is used for styling the application. Ensure that your development en
 # Contact
 If you have any questions or need further information, feel free to reach out:
 
-Muhammed Nasmi Email: mdnsmi2442@gmail.com Phone: +94765232442
+Muhammed Nasmi 
+Email: mdnsmi2442@gmail.com 
+Phone: +94765232442
