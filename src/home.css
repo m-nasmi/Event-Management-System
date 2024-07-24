@@ -1,0 +1,42 @@
+.carousel .thumbs-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .carousel .thumb {
+    width: 100px ;
+    height: 45px ;
+    margin: 0 8px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .carousel .thumb img {
+    width: 100%;
+    height: auto;
+  }
+
+  .gradient-text {
+    background-image: radial-gradient(circle, transparent 0%, rgba(255,255,255,0.5) 50%, rgba(255,255,255,0.8) 80%, rgba(255,255,255,0.9) 100%), linear-gradient(90deg, #FFD700, #FF6347, #ff1493);
+    background-size: 200% auto;
+    background-position: 100% 50%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradientAnimation 5s ease infinite;
+  }
+  @keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+  
+  .text-6xl {
+    font-size: 4rem;
+    line-height: 1.2;
+    padding: 0.2em 0;
+  }
+  
