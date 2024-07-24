@@ -37,3 +37,7 @@ The project follows a standard React structure with TailwindCSS for styling:
 Styling with TailwindCSS
 TailwindCSS is used for styling the application. Ensure that your development environment is set up to process TailwindCSS correctly by following the setup in tailwind.config.js.
 
+#Contact
+If you have any questions or need further information, feel free to reach out:
+
+Muhammed Nasmi Email: mdnsmi2442@gmail.com Phone: +94765232442
